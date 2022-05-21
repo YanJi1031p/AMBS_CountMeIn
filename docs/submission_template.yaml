@@ -1,0 +1,7 @@
+haicore_center: kit # Can be kit or fzj
+JobId: 1646588
+StartTime: 2022-04-05T23:13:26 
+EndTime: 2022-04-05T23:14:46
+energy: 40362 # Replace by NaN for fzj
+repository: http://github.com/awesome_dude/my_submission
+Commit: aff6768gb
